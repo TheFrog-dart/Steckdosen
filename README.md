@@ -7,3 +7,5 @@ Die Datei Steckdosen.sh ist ein Bash Script um das programm zu starten. ( der Pf
 befindet, angepasst werden. )
 Ich habe im System ( MX Linux ) eine Tastenkombination gewählt ( Windowstaste + s ) und damit starte ich das Bash Script.
 Somit kann ich, egal was ich gerade mache, die Tastenkombination drücken und das Programm startet.
+Mit den Zifferntasten 1 - 8 können die Steckdosen gaschaltet werden.
+Wenn die SteckdosenQT.py benutzt wird kann diese mit Esc beendet werden.
