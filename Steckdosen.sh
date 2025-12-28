@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
- cd /home/frosch/Steckdosen
- python3 -m SteckdosenQT
+ cd /home/Frosch/Steckdosen
+ python3 -m SteckdosenQT6
