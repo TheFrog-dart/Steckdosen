@@ -6,7 +6,7 @@ from PyQt6 import uic
 import sys 
 import serial
 import configparser as cp
-from Einstellungen import Ui_Einstellungen as uie
+from Einstellungen6 import Ui_Einstellungen as uie
 
 class Steckdosen(QMainWindow):
     def __init__(self, parent=None):
